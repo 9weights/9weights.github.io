@@ -8,7 +8,7 @@ const App = () => {
     <Container maxWidth="sm">
       <Box sx={{ my: 4 }}>
         <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
-          Testing
+          Nothing is here yet
         </Typography>
       </Box>
     </Container>
